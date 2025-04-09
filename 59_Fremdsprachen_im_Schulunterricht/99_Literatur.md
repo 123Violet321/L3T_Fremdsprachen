@@ -9,6 +9,8 @@
 
 - Buchberger, G., Hilzensauer, W. & Hornung-Prähauser, V. (2006). MOSEP - More Self-Esteem With My E-Portfolio. Beitrag bei der ICL 2006, Villach. URL: [http://halshs.archives-ouvertes.fr/docs/00/19/73/00/PDF/187\_Final\_Paper.pdf](http://halshs.archives-ouvertes.fr/docs/00/19/73/00/PDF/187\_Final\_Paper.pdf) \[2013-08-27].
 
+- Canva (o. D.). Canva. URL: [https://www.canva.com/de_de/](https://www.canva.com/de_de/) \[2025-04-09]
+
 - Chapelle, A.C. (2009). The Relationship Between Second Language Acquisition Theory and Computer-Assisted Language Learning. The Modern Language Journal, 93, 719-740. URL: [http://www.postgradolinguistica.ucv.cl/dev/documentos/90,955,3%20Relationship\_chapelle\_2009.pdf](http://www.postgradolinguistica.ucv.cl/dev/documentos/90,955,3%20Relationship\_chapelle\_2009.pdf) \[2013-08-20].
 
 - Chrissou, M. (2005). Telekommunikative Projektarbeit im Unterricht „Deutsch als Fremdsprache“. Eine konstruktivistisch orientierte Studie. Hamburg: Dr. Kova.
@@ -26,6 +28,10 @@
 - Duolingo Podcast (o. D.). Podcast - Duolingo. URL: [https://podcast.duolingo.com/](https://podcast.duolingo.com/) \[2025-04-05]
 
 - Edublogs (o. D.). Edublogs. URL: [https://edublogs.org/](https://edublogs.org/) \[2025-04-07]
+
+- eTwinning (o. D.-a). Projekte durchführen. URL: [https://etwinning.at/de/projekte/projekte-durchfuehren](https://etwinning.at/de/projekte/projekte-durchfuehren \[2025-04-09])
+
+- eTwinning (o. D.-b). Projekte. URL: [https://etwinning.at/de/projekte](https://etwinning.at/de/projekte) \[2025-04-09]
 
 - European School Education Platform (2024). Artificial intelligence as an asset to language learning in Europe. URL: [https://school-education.ec.europa.eu/en/discover/news/artificial-intelligence-asset-language-learning-europe](https://school-education.ec.europa.eu/en/discover/news/artificial-intelligence-asset-language-learning-europe) \[2025-04-05]
 
@@ -50,6 +56,8 @@
 - Müller-Hartmann A. (2006): Learning How to Teach Intercultural Communicative Competence via Telecollaboration: A Model for Language Teacher Education. In: Belz, J. A. & Thorne, S. L. (Hrsg.) Internet-Mediated Intercultural Foreign Language Education. Boston: Thomson Heinle, 63-84. URL: [http://www.personal.psu.edu/slt13/589\_s2007/mullerhartmann\_AAUSC2005.pdf](http://www.personal.psu.edu/slt13/589\_s2007/mullerhartmann\_AAUSC2005.pdf) \[2013-08-20].
 
 - Nieweler, A. (2006). Fachdidaktik Französisch: Tradition, Innovation, Praxis. Stuttgart: Ernst Klett.
+
+- Padlet (o. D.). Padlet. URL: [https://padlet.com/](https://padlet.com/) \[2025-04-09]
 
 - Platten, E. (2008). Gemeinsames Schreiben im Wiki-Web. Aktivitäten in einer untutorierten Schreibwerkstatt fürfortgeschrittene Deutschlernende. Zeitschrift für Interkulturellen Fremdsprachenunterricht, 13 (1), 1-22, URL: [http://zif.spz.tu-darmstadt.de/jg-13-1/beitrag/Platten1.htm](http://zif.spz.tu-darmstadt.de/jg-13-1/beitrag/Platten1.htm) \[2013-08-27].
 
